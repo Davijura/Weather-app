@@ -1,2 +1,2 @@
 # Weather-app
-WeatherApp using ReactNative|NativeWind
+WeatherApp using ReactNative|Expo|NativeWind
